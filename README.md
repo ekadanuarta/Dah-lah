@@ -6,7 +6,7 @@ $ pkg install git -y
 
 $ git clone https://github.com/ekadanuarta/Hack-Wa.git
 
-$ cd HackWhatsApp
+$ cd Hack-Wa
 
 $ bash install.sh
 
