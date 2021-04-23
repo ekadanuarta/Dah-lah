@@ -1,6 +1,6 @@
 ## Cara install
 
-```Installation```👇
+
 
 $ pkg install git -y
 
