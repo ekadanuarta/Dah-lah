@@ -1,7 +1,7 @@
 
 
 
-## Cara install
+## installation
 
 
 
